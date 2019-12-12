@@ -1,2 +1,2 @@
 # FP_Growth_Algorithm
-A recomendation algorithm on the basis of purchase history made by customers.
+A recommendation algorithm on the basis of purchase history made by customers.
